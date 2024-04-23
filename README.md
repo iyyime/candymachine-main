@@ -74,9 +74,9 @@ If you encounter any issues or have questions, please refer to the [Issues tab](
 
 ## Authors
 
-- [Mohanbhai](https://github.com/mohanbhai)
-  - Contact: mohanbhai@email.com
-  - GitHub: [@mohanbhai](https://github.com/mohanbhai)
+- [iyyime](https://github.com/iyyime)
+  - Contact: safwanr226y@email.com
+  - GitHub: [@iyyime](https://github.com/iyyime)
 
 ## License
 
