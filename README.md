@@ -1,5 +1,3 @@
-Sure, here's a README file template based on the structure you provided:
-
 ```markdown
 # CandyMachine
 
